@@ -5,3 +5,9 @@ h1{
 body{
     background-color: cornflowerblue;
 }
+
+.title{
+    position: absolute;
+    top: 50%;
+    left: 33%;
+}
