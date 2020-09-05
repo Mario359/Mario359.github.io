@@ -1,10 +1,11 @@
 h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 10em;
+    color: whitesmoke;
 }
 
 body{
-    background-color: cornflowerblue;
+    background-color: royalblue;
 }
 
 .title{
